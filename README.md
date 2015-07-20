@@ -1,2 +1,2 @@
 # coq-extraction-sys-ocaml
-Interface to native OCaml Sys library.
+Interface to the native OCaml Sys library.
